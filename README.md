@@ -6,6 +6,9 @@ Cada ejemplo está implementado de forma independiente para facilitar el estudio
 
 El proyecto irá creciendo con nuevas validaciones y mecanismos de protección, por lo que servirá como una colección de ejemplos prácticos para aprender desarrollo backend y seguridad en APIs.
 
+PARA ENTORNOS EN PRODUCCION LOS METODOS UTILIZADOS NO SON LOS MAS OPTIMOS EN CUANTO SEGURIDAD Y RENDIMIENTO PERO SE ENTIENDE
+QUE ES CON FINES EDUCATIVOS, ENTENDER QUE SE PUEDEN PASAR POR VALIDACIONES DISTINTOS METODOS
+
 ---
 
 ##  Requisitos
